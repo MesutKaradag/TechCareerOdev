@@ -1,7 +1,7 @@
-Hocam bazı hatalar aldım Api testi yüklenmedi github'a, 
+Hocam bazı hatalar aldım Api testi yüklenmedi github'a, Api Testi hariç her şey github da var.
 Api Testi klasörüne ve ödevin tamamını Google drive yükledim.
 
-Drive linki:
+Drive linki: https://drive.google.com/file/d/1lQdi5W7yT-Jm579kx2bBenVDiTDlaxqw/view?usp=sharing
   
 
 
