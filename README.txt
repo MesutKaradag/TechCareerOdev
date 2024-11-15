@@ -1,3 +1,9 @@
+Hocam bazı hatalar aldım Api testi yüklenmedi github'a, 
+Api Testi klasörüne ve ödevin tamamını Google drive yükledim.
+
+Drive linki:
+  
+
 
 Manuel test Senaryoları excele yazıldı.
 
