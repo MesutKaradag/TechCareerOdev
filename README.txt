@@ -1,0 +1,17 @@
+
+Manuel test Senaryoları excele yazıldı.
+
+Test otomasyonu Selenium ile yapıldı.
+Raporlama için Allure test kullanıldı.
+
+Api otomasyonu Cypress ile yapıldı.
+Locust ile yük testi de yapıldı.
+Raporlama için Mochawesome kullanıldı.
+
+
+Allure, Locust ve Mochawesome için ekran görüntüleride alındı Raporlar klasörüne eklendi.
+
+
+
+          Mesut Karadağ
+          mesutkaradag56@gmail.com
